@@ -4,8 +4,8 @@ Currently, I am engaged in working with several IT services, such as IT consulti
 
 <div>
   <a href='https://github.com/felpssdev'>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=felpssdev&show_icons=true&theme=transparent&count_private=true'>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felpssdev&layout=compact&theme=transparent'>
+  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=felpssdev&show_icons=true&theme=transparent&count_private=true'>
+  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felpssdev&layout=compact&theme=transparent'>
 </div>
   
 <div style="display: inline_block"><br>
