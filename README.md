@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,css,js,jest,nextjs,java,ts,nodejs,tailwind&perline=3" />
   </a>
