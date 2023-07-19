@@ -4,9 +4,6 @@
   </a>
 </p>
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpssdev&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=felpssdev&theme=radical&hide_border=false)
+  <img width="400em" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssdev&layout=compact&langs_count=7&theme=transparent"/>
  </div>
 
